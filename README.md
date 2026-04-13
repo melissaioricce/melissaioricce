@@ -1,104 +1,145 @@
 # 👩🏻‍💻 Melissa Ioricce Barbosa
 
-**`Análise de Dados | Business Intelligence | SQL | Power BI | Python`**
+**`Análise de Dados e Business Intelligence`**
 
-Me chamo Melissa Ioricce, tenho 19 anos e sou natural de São Paulo.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas (FMU)** e **Geografia (USP)**.
-
-Sou apaixonada por tecnologia e análise de dados, desenvolvendo projetos que simulam cenários reais de empresas, com foco em **tomada de decisões estratégicas orientadas por dados**.
-
-🔗 Acesse meu portfólio:  
-👉 https://melissaioricce.github.io/
-
----
-
-## ☺️ Conecte-se comigo
+Me chamo Melissa Ioricce, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU e Geografia na USP. Sou apaixonada por tecnologia e análise de dados, e procuro compartilhar meus projetos através do meu site "[Melissa Ioricce Barbosa](https://melissaioricce.github.io/)" e também no LinkedIn, com o perfil "[Melissa Ioricce](https://www.linkedin.com/in/melissa-ioricce/)".
 
 <p align="left">
     <a href="https://www.linkedin.com/in/melissa-ioricce/">
         <img 
             alt="LinkedIn" 
-            title="Conecte-se comigo" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Conecte-se comigo!" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/melissaioricce">
+    </a>
+    <a href="https://github.com/melissaioricce?tab=repositories&sort=stargazers">
         <img 
-            alt="GitHub" 
-            title="Meu GitHub" 
-            src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github"
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/melissaioricce?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/melissaioricce?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/melissaioricce?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-## 📊 Data & Analytics
+### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
-<img align="left" alt="Power BI" width="30px" src="https://img.icons8.com/color/48/power-bi.png"/>
-<img align="left" alt="Excel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle"
+    title="Oracle SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+<img 
+    align="left" 
+    alt="Excel"
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-<br/><br/> 
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
 
-## 💻 Linguagens & Tecnologias
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=melissaioricce&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaioricce&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<br/><br/>
-
----
-
-## 🚀 Projeto em Destaque
-
-### 📌 AUMOVIO Sales & Operations Analysis
-
-Projeto de análise de dados simulando um ambiente industrial, focado em performance logística e tomada de decisão.
-
-🔍 **Análises realizadas:**
-- On-Time Delivery (OTD)
-- Custos logísticos
-- Performance por planta
-- Identificação de gargalos
-
-🛠️ **Tecnologias:**
-- SQL Server (SSMS)
-- Power BI
-- Excel
-
-🎯 **Destaque:**
-- Modelagem em estrela
-- KPIs estratégicos
-- Dashboard executivo
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissaioricce&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaioricce&theme=tokyonight&layout=compact"/>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=melissaioricce&theme=tokyonight"/>
-</p>
-
----
-
-## Meus objetivos
-
-Busco uma oportunidade de estágio em **Análise de Dados ou Desenvolvimento de Sistemas**, na qual eu possa aplicar meus conhecimentos para gerar insights estratégicos, evoluir profissionalmente e solucionar novos desafios.
-
----
-
-⭐ Obrigada por visitar meu perfil!
