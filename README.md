@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+a+Melissa+Ioricce;An%C3%A1lise+de+Dados;Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-
-# Olá! Eu sou a Melissa Ioricce<br>
+# Sobre mim<br>
 - Hoje trabalho com análise de dados e full-stack<br>
 - Estudando Python e SQL<br>
 - Pronouns: ela/dela
