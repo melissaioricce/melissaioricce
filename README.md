@@ -34,8 +34,8 @@ Me chamo Melissa Ioricce, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -62,7 +62,7 @@ Me chamo Melissa Ioricce, tenho 19 anos e sou natural de São Paulo. Atualmente,
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
 />
 <img 
     align="left" 
@@ -131,13 +131,32 @@ Me chamo Melissa Ioricce, tenho 19 anos e sou natural de São Paulo. Atualmente,
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=melissaioricce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=melissaioricce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaioricce&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaioricce&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 🚀 Projetos
+
+- [AUMOVIO Sales & Operations Analysis](https://melissaioricce.github.io/)
+- Em breve, novos projetos de análise de dados, business intelligence e desenvolvimento
+
+### 🌐 Portfólio
+
+- [Meu site profissional](https://melissaioricce.github.io/)
+
+### 💼 Objetivo
+
+Busco oportunidades para desenvolver minhas habilidades em **Análise de Dados**, **Business Intelligence** e **Tecnologia**, aplicando conhecimentos em projetos práticos e gerando insights estratégicos por meio dos dados.
