@@ -3,7 +3,7 @@
 
 <p align="center"> Um pouco sobre mim:<br>
 Hoje desenvolvo projetos centrados em análise estratégica de dados<br>
-Minhas principais ferramentas são SQL, Python, Excel e Power BI<br>
+Minhas principais ferramentas são SQL, Python, Java, Excel e Power BI<br>
 Sou uma pessoa apaixonada por desafios e principalmente em como solucioná-los!
 
 
